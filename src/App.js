@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import navbar from "./navbar";
+import card from "./card";
 
 function App() {
   return (
@@ -8,7 +10,11 @@ function App() {
     <h2>Section - 01</h2>
     <p>WVU ID: 800416929</p>
     <p>Hi I am Ehsan Bahaloo Horeh</p>
+    <navbar />
+    <div className="container mt-4">
+      <card />
     </div>
+  </div>
   );
 }
 
