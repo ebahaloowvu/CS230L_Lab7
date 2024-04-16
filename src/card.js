@@ -1,6 +1,6 @@
 import react from 'react'
 
-const Card = () => {
+const card = () => {
     return (
       <div className="row">
         <div className="col-sm-4">
@@ -31,5 +31,5 @@ const Card = () => {
     );
   };
   
-  export default Card;
+  export default card;
   
