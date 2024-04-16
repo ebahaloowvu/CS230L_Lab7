@@ -32,4 +32,8 @@ const card = () => {
   };
   
   export default card;
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 930f4ff17089980c2e23b5fc7de116f1fa734629

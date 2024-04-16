@@ -42,4 +42,8 @@ const navbar = () => {
   );
 };
 
+<<<<<<< HEAD
 export default navbar;
+=======
+export default navbar;
+>>>>>>> 930f4ff17089980c2e23b5fc7de116f1fa734629
